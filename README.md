@@ -4,4 +4,4 @@
 - [체육복](https://github.com/b00db/progarammers/blob/master/greedy1.py)
 
 ## 구현_완전탐색
-- [모의고사](https://github.com/b00db/progarammers/blob/master/implementation.py)
+- [모의고사](https://github.com/b00db/progarammers/blob/master/implementation1.py)
